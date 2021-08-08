@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ...RR BEBIDAS LTDA
-- 🌱 I’m currently learning ...Flutter/Dart/Clean Code/Project Architecture/
+- 🌱 I’m currently learning ...Flutter/Dart/Clean Architecture/TDD/Test
 - 👯 I’m use daily ...Flutter/Dart/Git/GitHub/AndroidStudio/VsCode
 - 🤔 I’m looking for ...work Flutter
 - 💬 Ask me about ...new projects
