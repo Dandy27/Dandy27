@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on ...Distributor RR BEBIDAS LTDA
-- 🌱 I’m currently learning ...Flutter/Dart/Clean Architecture/TDD/
-- 👯 I’m use daily ...Flutter/Dart/Git/GitHub/AndroidStudio/VsCode
-- 🤔 I’m looking for ...work Flutter
+- 🌱 I’m currently learning ..Proprietário da SmartStreamAi/
+- 👯 I’m use daily ...Claude/Gpt/Gemine/Copilot/VsCode
+- 🤔 Estudant Growth Marketing na Staage 
 - 💬 Ask me about ...new projects
 - ⚡ Fun fact: ...Aries, left-handed, Vegan, guitar, cyclist...
